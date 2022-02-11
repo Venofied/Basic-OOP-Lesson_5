@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj": {}
+    "C:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj": {
+    "C:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj",
+        "projectUniqueName": "C:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj",
         "projectName": "Lesson_5",
-        "projectPath": "c:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj",
+        "projectPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\Lesson_5.csproj",
         "packagesPath": "C:\\Users\\Venofied\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\obj\\",
+        "outputPath": "C:\\Users\\Venofied\\source\\repos\\Lesson_5\\Lesson_5\\Lesson_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

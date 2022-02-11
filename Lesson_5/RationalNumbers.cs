@@ -182,7 +182,7 @@ namespace Lesson_5
         /// <returns></returns>
         public override string ToString()
         {
-            return result().ToString();
+            return Convert.ToInt32(result()).ToString();
         }
 
         public static explicit operator float(RationalNumbers r1)
